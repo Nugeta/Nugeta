@@ -15,7 +15,7 @@
 - Nugeta Software
 - Making Malware
 - Currently working on Nugeta Stealer
-- Personal website [link](https://criminals.life)
+- Our website [link](https://criminals.life)
 - This is our discord server [Invite Link](https://discord.gg/gb5EXcB2GX)
 
 <br><br>
